@@ -1,3 +1,4 @@
+![logo](https://github.com/h-a-r-s-h-s-r-a-h/h-a-r-s-h-s-r-a-h/blob/main/hacker.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
 <h3 align="center">I work as an ethical hacker & cyber security consultant from India</h3>
 
