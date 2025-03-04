@@ -57,12 +57,7 @@
 
 ---
 
-## 📌 Featured Projects  
-🚀 **[devStream.org](https://devstream.org)** – AI-powered coding education platform  
-🧠 **AI-Powered Education Portal** – Personalized learning with AI integration  
-🩺 **AI Doctor Portal** – Disease diagnosis, prescriptions & health tracking  
-💰 **Programmable Money on Solana** – Smart contracts for automated token vesting  
-📚 **Udemy Clone** – Feature-rich online education platform  
+
 
 ---
 
