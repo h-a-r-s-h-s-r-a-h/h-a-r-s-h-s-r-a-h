@@ -57,12 +57,8 @@
 
 ---
 
-
-
----
-
 ## 🔗 Connect with Me  
-- **LinkedIn:** [Harsh](www.linkedin.com/in/harsh-55a0b325b)  
+- **LinkedIn:** [Harsh](https://www.linkedin.com/in/harsh-55a0b325b)  
 
 ---
 
