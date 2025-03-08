@@ -9,7 +9,7 @@
   - 🥈 2nd Rank - Engineering Project Showcase 2023  
   - 🏅 9th Rank - Smart India Hackathon  
 - 📫 **Contact:** harshvirat894@gmail.com  
-- ⚡ **Fun Fact:** Passionate about cars 🏎️  
+- ⚡ **Fun Fact:** Jack of all codes, master of each—no bug too tough, no skill out of reach.   
 
 ---
 
