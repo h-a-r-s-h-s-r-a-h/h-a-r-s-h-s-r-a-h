@@ -1,9 +1,9 @@
 # Hi 👋, I'm Harsh
 
-## 🚀 Founder of devStream.org | Web Developer | Blockchain Enthusiast  
+## 🚀**Building devStream.org** | Web Developer | Blockchain Enthusiast 
 
 ### 📌 About Me  
-- 🔭 **Founder of** [devStream.org](https://devstream.org) – an online coding education platform  
+- 🔭 **Building of** [devStream.org](https://devstream.org) – an online coding education platform  
 - 💡 **Specialized in** AI-driven education, full-stack development & blockchain applications  
 - 🏆 **Achievements:**  
   - 🥈 2nd Rank - Engineering Project Showcase 2023  
