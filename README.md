@@ -3,7 +3,7 @@
 ## 🚀**Building devStream.org** | Web Developer | Blockchain Enthusiast 
 
 ### 📌 About Me  
-- 🔭 **Building of** [devStream.org](https://devstream.org) – an online coding education platform  
+- 🔭 **Building** [devStream.org](https://devstream.org) – an online coding education platform  
 - 💡 **Specialized in** AI-driven education, full-stack development & blockchain applications  
 - 🏆 **Achievements:**  
   - 🥈 2nd Rank - Engineering Project Showcase 2023  
