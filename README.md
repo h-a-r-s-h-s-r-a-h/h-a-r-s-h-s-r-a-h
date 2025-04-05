@@ -1,3 +1,5 @@
+# Hi 👋, I'm Harsh
+
 ```toml
 apiVersion = "v1"
 kind = "Human"
@@ -30,8 +32,6 @@ web = "🌐"
 blockchain = "Solana 🧬"
 
 ```
-
-# Hi 👋, I'm Harsh
 
 ## 🚀**Building devStream.org** | Web Developer | Blockchain Enthusiast 
 
