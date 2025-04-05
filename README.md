@@ -1,3 +1,36 @@
+```toml
+apiVersion = "v1"
+kind = "Human"
+
+[metadata]
+name = "Harsh"
+
+[spec]
+purpose = "Building devStream.org and creating awesome dev tools and education platforms."
+sponsorship = "https://devstream.org/"
+
+[[spec.locations]]
+type = "GitHub"
+where = "https://github.com/h-a-r-s-h-s-r-a-h"
+
+[[spec.locations]]
+type = "LinkedIn"
+where = "https://www.linkedin.com/in/harsh-55a0b325b"
+
+[[spec.locations]]
+type = "Email"
+where = "mailto:harshvirat894@gmail.com"
+
+[favorites]
+number = 16
+drink = "🧋"
+car = "🚗"
+coding = "❤️"
+web = "🌐"
+blockchain = "Solana 🧬"
+
+```
+
 # Hi 👋, I'm Harsh
 
 ## 🚀**Building devStream.org** | Web Developer | Blockchain Enthusiast 
