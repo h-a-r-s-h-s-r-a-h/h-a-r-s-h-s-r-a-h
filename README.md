@@ -25,7 +25,6 @@ where = "mailto:harshvirat894@gmail.com"
 
 [favorites]
 number = 16
-drink = "🧋"
 car = "🚗"
 coding = "❤️"
 web = "🌐"
